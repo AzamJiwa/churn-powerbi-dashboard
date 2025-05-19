@@ -11,6 +11,8 @@ This project presents an interactive Power BI dashboard that analyzes customer c
 ## Files
 - `Churn Project.pbix` – Power BI file with all visuals and data model
 - `Churn_data.xlsx` - Raw excel data
+- `Churn Project.pdf` - Easy viewing without interactions
+  
 ## Tools Used
 - Microsoft Power BI
 - DAX 
